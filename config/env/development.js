@@ -22,7 +22,7 @@ module.exports = {
     }
   },
   app: {
-    title: defaultEnvConfig.app.title + ' - Development Environment'
+    title: defaultEnvConfig.app.title + ' - A blog about me'
   },
   facebook: {
     clientID: process.env.FACEBOOK_ID || 'APP_ID',
